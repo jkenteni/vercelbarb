@@ -6,7 +6,7 @@ import CadEmprestimo from './component/cademprestimo';
 import Cadautor from './component/cadautor';
 import CadastroAdmin from './component/cadastroadmin';
 import Home from './component/home';
-import RecuperarSenha from './component/recuperarSenha';
+import RecuperarSenha from './component/RecuperarSenha';
 
 
 import './App.css';
